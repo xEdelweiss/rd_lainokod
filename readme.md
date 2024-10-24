@@ -24,7 +24,7 @@
 
 ## Як перевірити
 
-Скопіювати вміст `main.php` та `test.php` в https://onlinephp.io/ і запустити.
+Скопіювати вміст `main.php` та `test.php` в https://onlinephp.io/, вибрати PHP 8.0+ і запустити.
 
 Або скопіювати код нижче:
 ```php
